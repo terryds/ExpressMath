@@ -7,7 +7,7 @@ See example for better understanding of how this works
 ## Installing
 ExpressMath installation using Composer  
 ```
-composer require terrydjony/ExpressMath
+composer require terrydjony/express-math
 ```
 
 ## Example

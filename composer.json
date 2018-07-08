@@ -1,5 +1,5 @@
 {
-    "name": "terryds/ExpressMath",
+    "name": "terryds/express-math",
     "description": "A parser for its own math or computational problem markup language",
     "keywords": ["math", "parser", "math parser", "math markup language"],
     "license": "MIT",
